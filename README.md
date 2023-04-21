@@ -15,7 +15,7 @@ PackagePal -
 
 ## Project resources:
 
-Atlassian Scrum Board: 
+Atlassian Scrum Board: https://easyfarming.atlassian.net/jira/core/projects/PAC/board
 
 Report: 
 
