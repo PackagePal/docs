@@ -11,7 +11,7 @@ PackagePal - The PackagePal application is designed to provide a convenient and 
 | Product Owner     |Catarina Costa	|catarinateves02@ua.pt |103696  |
 | Team Coordinator  |Vânia Morais     |vania.morais@ua.pt       |102382 |
 
-*Everyone is Developer.
+*Everyone is Developer and QA Engineer.
 
 ## Project resources:
 
@@ -21,7 +21,7 @@ Report: https://github.com/PackagePal/docs/blob/main/TQS%20Product%20Specificati
 
 QA Report: https://github.com/PackagePal/docs/blob/main/TQS%20QA%20Manual.pdf
 
-## Things implemented after presentation
+## What was implemented after presentation
 
 We tried to do the deploy with GitHub Actions but it didnt worked properly.
 
