@@ -17,7 +17,12 @@ PackagePal - The PackagePal application is designed to provide a convenient and 
 
 Atlassian Scrum Board: https://easyfarming.atlassian.net/jira/core/projects/PAC/board
 
-Report: https://docs.google.com/document/d/1n4z7uQGEF99VkmqQTmFQYfe4UXpR3vufPfyKsQrl5J8/edit?usp=sharing
+Report: https://github.com/PackagePal/docs/blob/main/TQS%20Product%20Specification%20Report.pdf
 
-QA Report: https://docs.google.com/document/d/109o0m6ti8u_ikekk6cn6HIIy2ssyPeothANRz1XiL1Y/edit?usp=sharing
+QA Report: https://github.com/PackagePal/docs/blob/main/TQS%20QA%20Manual.pdf
 
+## Things implemented after presentation
+
+We tried to do the deploy with GitHub Actions but it didnt worked properly.
+
+We also fixed some issues that SonarCloud warned us.
